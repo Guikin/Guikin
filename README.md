@@ -35,7 +35,6 @@
       <a href="#"><img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?flat-square&logo=netlify&logoColor=#00C7B7" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?flat-square&logo=vercel&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>

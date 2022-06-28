@@ -1,6 +1,6 @@
 <h1 align="center"> 🌎 Hello World, I'm Jean Thomas 🌎</h1>
 
- I am a **Software Engineer** with experience in working as a **Network Analyst** 📡 . Through my experience working as Network Analyst I ambitiously worked in a collaborative setting to Troubleshoot and maintain networking devices and infrastructure across enterprise . I'm **passionate** about **developing** **attractive** and easy to use applications for kids and elderly citizens✨. 
+ I am a **Web Developper and coding enthusiast** passionate about technology. I have a background in clientele and services and a very good eye for designs and user experience. I was always interested in Programming and attened a coding bootcamp program to push my limits and hone my skills. 
 
 - 📫 Let's connect 🙂:<div ><br>
     <a href="https://www.linkedin.com/in/thomas-guillaume-7b830772/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>

@@ -22,7 +22,6 @@
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-F7F7F7?style=flat-square&logo=bootstrap" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flatsquare&logo=tailwind-css&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Flask-F7F7F7?style=flat-square&logo=flask&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FAFAFA" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-F7F7F7?style=flat-square&logo=mongodb" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=FEBD69" />  </a>

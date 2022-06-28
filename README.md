@@ -14,9 +14,6 @@
 - 💻 Technologies I like to use are 🔥:<div> <br>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-sqaure&logo=vuetify&logoColor=AEDDFF" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=339933" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?flat-square&logo=WordPress&logoColor=white" />  </a>
